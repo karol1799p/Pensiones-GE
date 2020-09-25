@@ -49,7 +49,28 @@ población: Cotizantes.
 y=bo
 
 Variable dependiente: Probabilidad de pensionarse---> 
-Independientes: Edad, sexo, (edad de pension*sexo), Educación, experiencia laboral, horas/año
+Independientes: 
+Edad, P6040
+Fecha de Nacimiento año, P6030S3
+Fecha de Nacimiento mes, P6030S1
+sexo, P6020 
+(edad de pension*sexo), 
+Educación, ESC
+experiencia laboral, 
+horas/año,
+Departamento, DPTO
+Jefatura, P6050
+Afiliado,
+ultimo diploma, P6220
+Grado, P6210S1
+Está afiliado es cotizante o es beneficiario de alguna entidad de seguridad social en salud?,P6090
+anteriormente estuvo ... Afiliado fue cotizante o beneficiario de alguna entidad de seguridad social en salud, P6140
+cuántos meses hace que ... No está afiliado o no cotiza a la seguridad social en salud?, P6150
+¿cuántos meses hace que ... No está afiliado o no cotiza a la seguridad social en salud?,P6150
+¿a cual de los siguientes regímenes de seguridad social en salud está afiliado, P6100
+quién paga mensualmente por la afiliación de ...?,P6110
+¿cuánto paga o cuánto le descuentan mensualmente? (si no sabe cuánto paga o cuanto le descuentan escriba 98), P6120
+
 
 Diff&diff-----> variables instrumentales: horas laborales dentro de la vida de la persona. 
 
