@@ -1,0 +1,61 @@
+Variables de mercado laboral
+- El estudio, puede reducir a los años en el mercado laboral. Debe ser control porque resta años cotizando.
+-Edad anticipada de pension. 
+- Desinsentivo de los empleadores para contratacion de mujeres en edad madura
+- Modelo de economía laboral.
+- Atractivo a salir del mercado laboral y retirar el monto ahorrado antes de completar las semanas, dejandolas sin posibilidad de una pensión digna 
+modelo teorico.
+- Discriminación en el sistema pensional
+- Probabilidad de pensionarse, 
+- Pensión digna. 
+- Funciones publicas tienen retiro forzoso. 
+
+Variables principales: 
+
+Sistema pensional Colombiano-----> Condiciones de inequidad en las pensiones 
+
+
+Edad anticipada------> Posibilidad de pensionarse.
+Edad anticipada------> Monto de la pensión.
+Edad anticipada------> Continuidad en el mercado laboral. 
+
+///interacción entre las horas de trabajo requeridas y la edad///
+Máximo de horas labores, es decir, hay un máximo de horas laborales anuales que no son 
+transeferibles entre años 
+
+
+Diferencia de edad
+entre hombres y mujeres-----> 
+(1991)
+
+Mecanismos: 
+
+- Economía del cuidado.---> maternar
+- Situaciones de tipo juridico que generan huecos en la cotización como la licencia de 
+maternidad. 
+- Discriminación laboral. 
+- Informalidad-efectos heterogeneos por sectores feminizados. Elasticidad del trabajo. 
+- Analisis por departamentos. 
+
+
+GEIH- 2019 
+
+Hipotesis: 
+población: Cotizantes. 
+
+1. Regresión discontinua- edad diferenciada.
+2.
+
+y=bo
+
+Variable dependiente: Probabilidad de pensionarse---> 
+Independientes: Edad, sexo, (edad de pension*sexo), Educación, experiencia laboral, horas/año
+
+Diff&diff-----> variables instrumentales: horas laborales dentro de la vida de la persona. 
+
+
+*Marco general de la metodología.
+*Limpieza y revisión de la .base de datos.-construcción de algunas variables.
+*Estadísticas descriptivas.
+*Variables de control.
+*Posibles pruebas de robutez.
