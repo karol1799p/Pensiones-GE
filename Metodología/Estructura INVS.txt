@@ -71,6 +71,16 @@ cuántos meses hace que ... No está afiliado o no cotiza a la seguridad social 
 quién paga mensualmente por la afiliación de ...?,P6110
 ¿cuánto paga o cuánto le descuentan mensualmente? (si no sabe cuánto paga o cuanto le descuentan escriba 98), P6120
 
+***************Fuerza de trabajo*************************
+
+P6240---> ¿en que actividad ocupó ... La mayor parte del tiempo la semana pasada?  para saber siesta trabajando o es inactivo ///
+P6280---> Si ha hecho diligencias para buscar trabajo en el ultimo mes. /// Definición de desempleado 
+P6300--> si desea conseguir un trabajo (desempleado). ////
+
+
+P6310---> Por que no ha encontrado trabajo
+P6351---> Si hubiera enocntrado trabajo, estaba disponible?
+
 
 Diff&diff-----> variables instrumentales: horas laborales dentro de la vida de la persona. 
 
